@@ -29,10 +29,10 @@ Ensure you have Python 3 installed.
 
 Ensure you have Python 3 installed.
 
-1-Run the currency_converter.py script:
+1-Run the main.py script:
 
 ```bash
-python currency_converter.py
+python main.py
 ```
 
 2-Use the dropdown menus to select the currencies you want to convert from and to.   
